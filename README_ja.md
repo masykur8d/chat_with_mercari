@@ -5,7 +5,7 @@
 <div style="display: flex;">
     <img src="screenshot.png" alt="Mercari AI Shopperの画面" width="300" style="margin-right: 20px;">
     <div>
-        <p>Mercari Japan AI Shopperは、メルカリで良い商品を見つけるのを手伝うAIです。日本語で質問すると、AIが商品を探して、おすすめを教えてくれます。</p>
+        <p>Mercari Japan AI Agent Shopperは、メルカリで良い商品を見つけるのを手伝うAIです。日本語で質問すると、AIが商品を探して、おすすめを教えてくれます。</p>
         <p>このプロジェクトは、LangChainなどを使ったことがある私にとって、とても勉強になりました。</p>
     </div>
 </div>
