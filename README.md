@@ -1,6 +1,6 @@
 # Mercari Japan AI Shopper
 
-![Mercari AI Shopper Screenshot](screenshot.png)
+<img src="screenshot.png" alt="Alt text" height="200">
 
 ## Overview
 
