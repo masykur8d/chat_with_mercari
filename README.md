@@ -1,6 +1,6 @@
 # Mercari Japan AI Shopper
 
-[Japanese version](README_ja.md)
+[日本語版はこちら](README_ja.md)
 
 <div style="display: flex;">
     <img src="screenshot.png" alt="Mercari AI Shopper Screenshot" width="300" style="margin-right: 20px;">
