@@ -1,5 +1,7 @@
 # Mercari Japan AI Shopper
 
+![Mercari AI Shopper Screenshot](screenshot.png)
+
 ## Overview
 
 As the name suggests, Mercari Japan AI Shopper is a Python-based AI agent designed to assist users in finding the best products on Mercari Japan. The agent interprets natural language requests, performs searches on Mercari, retrieves product information, and provides recommendations in a user-friendly format. A demo video is included in this project folder for reference. This project was a great learning experience for me, as I am more familiar with frameworks like LangChain, LangGraph, or LlamaIndex.
