@@ -1,4 +1,4 @@
-# Mercari Japan AI Shopper
+# Mercari Japan AI Agent Shopper
 
 [日本語版はこちら](README_ja.md)
 
